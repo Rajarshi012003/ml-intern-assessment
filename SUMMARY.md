@@ -1,12 +1,12 @@
 # AI/ML Intern Assignment - Complete Implementation Summary
 
-## 🎉 Both Tasks Completed Successfully!
+##  Both Tasks Completed Successfully!
 
 This document provides a quick summary of the completed assignment.
 
 ---
 
-## ✅ Task 1: Trigram Language Model (REQUIRED)
+##  Task 1: Trigram Language Model (REQUIRED)
 
 ### Implementation
 - **File**: `ml-assignment/src/ngram_model.py`
@@ -49,7 +49,7 @@ python generate.py
 
 ---
 
-## ✅ Task 2: Scaled Dot-Product Attention (OPTIONAL)
+##  Task 2: Scaled Dot-Product Attention (OPTIONAL)
 
 ### Implementation
 - **File**: `attention-task/src/attention.py`
@@ -95,7 +95,7 @@ python demo.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ml-intern-assessment-main/
@@ -127,7 +127,7 @@ ml-intern-assessment-main/
 
 ---
 
-## 📊 Statistics
+##  Statistics
 
 ### Code Volume
 - **Task 1**: ~200 lines of implementation code
@@ -144,7 +144,7 @@ ml-intern-assessment-main/
 
 ---
 
-## 🎯 Key Highlights
+##  Key Highlights
 
 ### Task 1: Trigram Model
 1. **Probabilistic Generation**: Uses `random.choices()` with proper weights (not greedy)
@@ -160,7 +160,7 @@ ml-intern-assessment-main/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Install Dependencies
 ```bash
@@ -182,7 +182,7 @@ cd src && python demo.py
 
 ---
 
-## 📝 Documentation
+##  Documentation
 
 Comprehensive documentation available in:
 - `ml-assignment/evaluation.md` - Design choices for both tasks
@@ -192,17 +192,17 @@ Comprehensive documentation available in:
 
 ---
 
-## ✨ Conclusion
+##  Conclusion
 
 Both required and optional tasks have been completed to a high standard:
 
-- ✅ Clean, readable, well-documented code
-- ✅ Comprehensive test coverage (100% pass rate)
-- ✅ Detailed design documentation
-- ✅ Working demonstrations
-- ✅ Proper error handling
-- ✅ Efficient implementations
-- ✅ Educational value (can be used as learning material)
+-  Clean, readable, well-documented code
+-  Comprehensive test coverage (100% pass rate)
+-  Detailed design documentation
+-  Working demonstrations
+-  Proper error handling
+-  Efficient implementations
+-  Educational value (can be used as learning material)
 
 The implementations demonstrate:
 - Strong Python programming skills
@@ -215,4 +215,4 @@ The implementations demonstrate:
 
 **Author**: AI/ML Intern Candidate
 **Date**: November 21, 2025
-**Status**: ✅ Complete (Both Tasks)
+**Status**:  Complete (Both Tasks)
